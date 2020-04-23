@@ -59,16 +59,14 @@ Workspace (not sure if this is necessary or not):
   
 ## Let me know...
 
-* Send pullrequests (I won't merge them, so that you can see
-  what exactly they'd like to change. This is not improving
-  a codebase as such, but rather provides a means to learn
-  how to think about a codebase)
-* Comment on the blog article publishing this challenge
+Either way:
+
+* Add a link to your implementation to this README (send a 
+  pull request)
+* Comment on the [Blog Article](https://liferay.dev/blogs/-/blogs/maintainable-plugins-challenge) 
+  publishing this challenge
 * Tweet at [olafk](https://twitter.com/olafk)
 
 ## And, of course, ...
 
-* subscribe to [Radio Liferay](http://radioliferay.com/)  
-  
-  
-  
+* subscribe to [Radio Liferay](http://radioliferay.com/) ;)  
