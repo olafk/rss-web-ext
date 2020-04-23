@@ -1,0 +1,9 @@
+dependencies {
+	originalModule group: "com.liferay", name: "com.liferay.rss.web"
+	compileOnly 'com.liferay:com.liferay.petra.string'
+	compileOnly 'com.liferay.portal:com.liferay.portal.kernel'
+	compileOnly 'com.liferay:com.liferay.rss.api'
+	compileOnly group: "com.liferay", name: "com.sun.syndication", version: "1.0.LIFERAY-PATCHED-1"
+    compile group: "biz.aQute.bnd", name: "biz.aQute.bndlib", version: "3.1.0"
+    compileOnly group: "com.liferay", name: "com.liferay.portal.configuration.metatype", version: "2.0.0"
+}
